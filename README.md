@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello! I'm a teacher looking to transition back into the data analytics field. 
+### Feel free to check out my  projects below: 
 
-<!--
-**ek0da/ek0da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Divvy Bike Share Google Analytics Capstone Project
+● Analyzed bike share data to determine how to convert casual riders into members. Used R to clean and transform the data, and Tableau to create dashboards to allow users to explore the visualized data.
 
-Here are some ideas to get you started:
+##World Health Organization COVID Data Project
+●	Analyzed data from the world health organization to visualize trends in COVID infections and vaccinations. Used Excel to format the data, created a database with Microsoft SQL SMS. I used MySQL to explore and transform the data, and Tableau to visualize the data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stock Market Linear Regression Project
+●	Used linear regression to develop models to predict the most profitable stocks in the S&P 500 using Python. Used data scraping techniques to retrieve data from Yahoo Finance. 
+
+## Movie Correlation Project
+●	Used Python with Pandas and NumPy to find statistical correlations between different variables in movie box office revenue data, and visualized these correlations with Seaborn.
+
+## Nashville House Data Cleaning Project
+●	Used SQL to clean and transform a dataset on Housing purchases in Nashville.
+
+## CO2 Emissions Visualization Project
+●	Used Tableau to visualize Global CO2 emissions by country.
+
