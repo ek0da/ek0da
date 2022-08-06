@@ -1,5 +1,7 @@
-### Hello! I'm a teacher looking to transition back into the data analytics field. 
-### Feel free to check out my  projects below: 
+### Hello! After three years as a teacher, I'm looking to transition into the data analytics field. My journey in data analytics began with my B.A. in Computer Science from Vassar College, where I took a wide range of courses from Data Mining to Various Computer Modeling Courses. Since then, I've used data anaysis in both my daily life and in my job as a teacher. 
+
+
+### Feel free to check out my projects below: 
 
 ## Divvy Bike Share Google Analytics Capstone Project
 ● Analyzed bike share data to determine how to convert casual riders into members. Used R to clean and transform the data, and Tableau to create dashboards to allow users to explore the visualized data.
