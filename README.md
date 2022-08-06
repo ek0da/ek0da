@@ -4,7 +4,7 @@
 ## Divvy Bike Share Google Analytics Capstone Project
 ● Analyzed bike share data to determine how to convert casual riders into members. Used R to clean and transform the data, and Tableau to create dashboards to allow users to explore the visualized data.
 
-##World Health Organization COVID Data Project
+## World Health Organization COVID Data Project
 ●	Analyzed data from the world health organization to visualize trends in COVID infections and vaccinations. Used Excel to format the data, created a database with Microsoft SQL SMS. I used MySQL to explore and transform the data, and Tableau to visualize the data.
 
 ## Stock Market Linear Regression Project
