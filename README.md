@@ -19,5 +19,5 @@
 ●	Used SQL to clean and transform a dataset on Housing purchases in Nashville.
 
 ## CO2 Emissions Visualization Project
-●	Used Tableau to visualize Global CO2 emissions by country.
+●	Used Tableau to [visualize Global CO2 emissions by country](https://public.tableau.com/app/profile/dakota.ewing/viz/CO2Emissionsfrom2000-2011/Sheet1).
 
