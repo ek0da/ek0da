@@ -1,6 +1,3 @@
-### Hello! After three years as a teacher, I'm looking to transition into the data analytics field. My journey in data analytics began with my B.A. in Computer Science from Vassar College, where I took a wide range of courses from Data Mining to various Computer Modeling Courses. Since then, I've used data analysis in both my daily life and in my job as a teacher to answer questions and discover insights. 
-
-
 ### Feel free to check out my projects below: 
 
 ## Divvy Bike Share Google Analytics Capstone Project
